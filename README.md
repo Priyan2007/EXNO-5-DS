@@ -225,4 +225,4 @@ plt.legend()
 
 
 # Result:
- Include your result here
+Thus the Data Visualization Techniques of Matplotlib has been Implemented
